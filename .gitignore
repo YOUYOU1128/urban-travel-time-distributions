@@ -43,6 +43,9 @@ python/mm/.DS_Store
 # Matlab output
 reports/CS281project/Inference/out/*.pdf
 
+# Python
+.metadata
+
 # specific files
 reports/arterials.pdf
 *.o
